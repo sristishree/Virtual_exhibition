@@ -1,0 +1,156 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 12.01.2019 12:05:26
+
+newmtl black_st
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\ттт\metalbl.jpg
+	map_Kd D:\New folder 2\ттт\metalbl.jpg
+	map_bump -bm 0.3000 D:\New folder 2\ттт\metalbl.jpg
+	bump -bm 0.3000 D:\New folder 2\ттт\metalbl.jpg
+
+newmtl st_gold
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9451 0.7725 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Metal G6.jpg
+	map_Kd D:\New folder 2\Metal G6.jpg
+
+newmtl standart_metal
+	Ns 43.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7373 0.6941 0.9098
+	Ks 0.6660 0.6660 0.6660
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\ттт\saif met.jpg
+	map_Kd D:\New folder 2\ттт\saif met.jpg
+	map_bump -bm 0.3000 D:\New folder 2\ттт\saif met.jpg
+	bump -bm 0.3000 D:\New folder 2\ттт\saif met.jpg
+
+newmtl mat_steklo
+	Ns 26.0000
+	Ni 1.5000
+	d 0.8000
+	Tr 0.8000
+	Tf 0.8000 0.8000 0.8000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9137 0.8431 0.6902
+	Ks 0.9900 0.9900 0.9900
+	Ke 0.2284 0.2108 0.1725
+
+newmtl green
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5216 0.7216 0.5294
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\7_1_gree.jpg
+	map_Kd D:\New folder 2\7_1_gree.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
+
+newmtl yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\4_1_2_d.jpg
+	map_Kd D:\New folder 2\4_1_2_d.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
+
+newmtl blue
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6627 0.8431 0.9686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\7_1_blue.jpg
+	map_Kd D:\New folder 2\7_1_blue.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
+
+newmtl dark_blue
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0824 0.3961 0.9765
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\UK blue.jpg
+	map_Kd D:\New folder 2\UK blue.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
+
+newmtl or
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9333 0.7922 0.7451
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\23 red.jpg
+	map_Kd D:\New folder 2\23 red.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
+
+newmtl red
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6706 0.1765 0.3373
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\7_1_red.jpg
+	map_Kd D:\New folder 2\7_1_red.jpg
+	map_bump -bm 0.8000 D:\New folder 2\normal.jpg
+	bump -bm 0.8000 D:\New folder 2\normal.jpg
